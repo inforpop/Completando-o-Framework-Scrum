@@ -1,0 +1,37 @@
+O Scrum é um framework ágil utilizado para gerenciar projetos complexos, especialmente no desenvolvimento de software. Ele é baseado em princípios como transparência, inspeção e adaptação, e organiza o trabalho em ciclos curtos e repetitivos chamados Sprints. Vamos explorar os componentes principais do Scrum:
+
+### 1. **Papéis no Scrum**
+
+- **Product Owner:** Responsável por maximizar o valor do produto resultante do trabalho da equipe de desenvolvimento. Ele é o ponto central para todas as decisões relacionadas ao produto, define e prioriza o backlog do produto (Product Backlog) e garante que a equipe de desenvolvimento entenda os itens do backlog.
+
+- **Scrum Master:** Garante que o Scrum seja compreendido e aplicado corretamente. Ele atua como um facilitador para a equipe, removendo impedimentos e ajudando a maximizar a produtividade. Também promove a comunicação entre o Product Owner e a equipe de desenvolvimento.
+
+- **Equipe de Desenvolvimento:** Grupo multifuncional e autônomo responsável por entregar incrementos de produto funcionais a cada Sprint. A equipe deve ter todas as habilidades necessárias para realizar o trabalho sem depender de outras equipes.
+
+### 2. **Artefatos do Scrum**
+
+- **Product Backlog:** Lista ordenada de tudo que pode ser necessário no produto. É mantida pelo Product Owner e continuamente refinada (Product Backlog Refinement) para assegurar que os itens mais importantes estejam prontos para serem trabalhados.
+
+- **Sprint Backlog:** Conjunto de itens do Product Backlog selecionados para a Sprint, junto com um plano para entregar o incremento de produto e alcançar o objetivo da Sprint. É criado durante a Sprint Planning e é de propriedade da equipe de desenvolvimento.
+
+- **Incremento:** Soma de todos os itens do Product Backlog completados durante uma Sprint e todas as Sprints anteriores. Um incremento deve ser "pronto" (done) e atender à definição de "pronto" (Definition of Done) estabelecida pela equipe.
+
+### 3. **Eventos do Scrum**
+
+- **Sprint:** Ciclo de desenvolvimento de tempo fixo, geralmente de duas a quatro semanas, durante o qual um incremento do produto "pronto" é criado. Cada Sprint começa imediatamente após o término da anterior.
+
+- **Sprint Planning:** Reunião no início da Sprint onde a equipe define o trabalho a ser realizado na Sprint. O Product Owner apresenta os itens do Product Backlog e a equipe de desenvolvimento seleciona aqueles que podem ser completados durante a Sprint.
+
+- **Daily Scrum:** Reunião diária de 15 minutos onde a equipe de desenvolvimento inspeciona o progresso em direção ao objetivo da Sprint e ajusta o plano conforme necessário. Cada membro responde a três perguntas: O que fiz ontem? O que farei hoje? Há algum impedimento no meu caminho?
+
+- **Sprint Review:** Reunião no final da Sprint onde a equipe apresenta o incremento ao Product Owner e aos stakeholders para obter feedback. O objetivo é inspecionar o trabalho realizado e adaptar o Product Backlog conforme necessário.
+
+- **Sprint Retrospective:** Reunião após a Sprint Review, onde a equipe reflete sobre o processo da Sprint e identifica melhorias a serem implementadas na próxima Sprint. O foco é na melhoria contínua.
+
+### 4. **Definição de Pronto (Definition of Done)**
+Conjunto de critérios que define quando um item do backlog ou incremento está completo. A definição de "pronto" é usada para garantir que o trabalho esteja realmente concluído e de alta qualidade.
+
+### 5. **Priorização e Refinamento do Backlog**
+O Product Backlog é um documento vivo que evolui conforme o produto e o ambiente onde ele será usado evoluem. O refinamento do backlog (Backlog Refinement) é uma atividade contínua onde os itens são revistos e detalhados para estarem prontos para futuras Sprints.
+
+Ao aplicar esses componentes de forma eficaz, as equipes podem alcançar maior produtividade, qualidade e satisfação dos stakeholders.
